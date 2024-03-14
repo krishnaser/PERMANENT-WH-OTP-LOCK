@@ -27,7 +27,7 @@ def otp_lock_banner():
        ====UU====UU====
            '\/\/'
 [bold {color}]●[bold {colors[(colors.index(color) + 1) % len(colors)]}] ●[bold {colors[(colors.index(color) + 2) % len(colors)]}] ======================================================
-[bold white][[bold red]^[bold white]] [bold green] Author: Krishna & Ꭰᥲʀk Ꮮᴇᴀᴅᴇʀ \n[bold white][[bold red]^[bold white]] [bold green] Github: github.com/Mr-Krishna-90 \n[bold white][[bold red]^[bold white]] [bold green] Telegram: https://t.me/+GrRkWxyiROs4ZGU1
+[bold white][[bold red]^[bold white]] [bold green] Author: Krishna  \n[bold white][[bold red]^[bold white]] [bold green] Github: github.com/krishnaser \n[bold white][[bold red]^[bold white]] [bold green] 
 [bold {color}] [bold {colors[(colors.index(color) + 1) % len(colors)]}] [bold {colors[(colors.index(color) + 2) % len(colors)]}]===================================================== ''', title="[bold red] Created By Krishna", style=color)
         console.print(panel)
         time.sleep(0.5)
@@ -106,11 +106,7 @@ def redirect_to_telegram_channel(channel_url):
     except subprocess.CalledProcessError as e:
         print(f"Error: {e}")
 
-# URL of your Telegram channel
-telegram_channel_url = "https://t.me/+GrRkWxyiROs4ZGU1"
 
-# Redirect users to the Telegram channel
-redirect_to_telegram_channel(telegram_channel_url)
 
 if __name__ == "__main__":
     main()
