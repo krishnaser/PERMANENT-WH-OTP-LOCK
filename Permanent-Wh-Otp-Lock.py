@@ -75,11 +75,9 @@ def print_separator():
 lines = [
     ("CALL ME Krishna..", "93", True),
     ("I AM FROM INDIA..", "92", True),
-    ("I AM THE OWNER OF Ꭰᥲʀκ͢ㅤᏞᴇᴀᴅᴇʀ ✞ TEAM..", "94", True),
+    ("I AM THE OWNER OF UCHIHA BROTHERS", "94", True),
     ("HOPE YOU LIKE THIS SCRIPT..", "95", True),
     ("OOPS... I TALK A LOT SRY FOR THAT..", "96", True),
-    ("Telegram Channel: ", "97", True),
-    ("https://t.me/+GrRkWxyiROs4ZGU1", "91", False),
     ("Permanent WhatsApp Otp Lock..", "92", True),
     ("Wait For Start Tool..............", "90", True)
 ]
